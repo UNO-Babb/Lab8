@@ -9,7 +9,7 @@ A common problem in working on computers is that you have data in one format but
 I have a datafile **"names.dat"** that contains text in the following format.
 
 | First name | Last Name | E-Mail | Student ID | Date of Birth | Year | Major |
-|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|
 | Abby | Apples | abby@email.com | 123-45-6780 | 02/07/1982 | Junior | Music |
 | Bob | Brown | bob@email.com | 123-45-6780 | 09/25/1981 | Freshman | Civil Engineering |
 | Carl | Crowe | carl@email.com | 123-45-6780 | 05/26/1985 | Senior | Cyber Security |
