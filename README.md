@@ -1,4 +1,4 @@
-# Lab8 - CYBR 2980
+# Lab8 - CIST 1600
 
 ## File Input/Output and Manipulation
 
