@@ -11,7 +11,6 @@ def main():
     inFile = open("names.dat", 'r')
     outFile = open("StudentList.csv", 'w')
 
-
     #Process each line of the input file and output to the CSV file
 
 
